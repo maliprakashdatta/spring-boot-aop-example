@@ -8,3 +8,9 @@ This repository contains 4 fully working examples of AOP, ranging from standard 
 <li>Spring Boot - 3.3.4</li>
 <li>Maven</li>
 </ul>
+
+## Compile and run the web service
+<li>Use Maven for the build process:</li>
+
+mvn clean install
+mvn spring-boot:run
