@@ -18,6 +18,7 @@ mvn spring-boot:run
 
 ```shell
 mvn clean install
+mvn spring-boot:run
 ```
 
 
